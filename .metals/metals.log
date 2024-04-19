@@ -653,3 +653,23 @@ SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@b711742]
 2024.04.19 12:20:58 INFO  time: Connected to build server in 0.25s
 2024.04.19 12:20:58 INFO  Connected to Build server: Bloop v1.5.17
 2024.04.19 12:21:02 INFO  time: indexed workspace in 4.34s
+2024.04.19 14:27:53 INFO  Shutting down server
+2024.04.19 14:27:53 INFO  shutting down Metals
+2024.04.19 14:27:53 INFO  Shut down connection with build server.
+2024.04.19 14:27:53 INFO  Exiting server
+2024.04.19 14:48:37 INFO  Started: Metals version 1.3.0 in folders 'C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe' for client Visual Studio Code 1.88.1.
+SLF4J: Class path contains multiple SLF4J providers.
+SLF4J: Found provider [scribe.slf4j.ScribeServiceProvider@2a8a22c6]
+SLF4J: Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1eac08c4]
+SLF4J: See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2a8a22c6]
+2024.04.19 14:48:38 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.04.19 14:48:38 INFO  Attempting to connect to the build server...
+2024.04.19 14:48:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\.metals\bsp.trace.json or C:\Users\Dmers\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.04.19 14:48:38 INFO  time: Connected to build server in 0.18s
+2024.04.19 14:48:38 INFO  Connected to Build server: Bloop v1.5.17
+2024.04.19 14:48:43 INFO  time: indexed workspace in 4.52s
+2024.04.19 14:52:51 INFO  Shutting down server
+2024.04.19 14:52:51 INFO  shutting down Metals
+2024.04.19 14:52:51 INFO  Shut down connection with build server.
+2024.04.19 14:52:51 INFO  Exiting server
