@@ -1,18 +1,21 @@
-object Tictactoe extends App {
+
+object TicTacToe extends App {
   val board = new Board()
-  val player1 = Player('X')
-  val player2 = Player('O')
-  var currentPlayer = player1
+  val humanPlayer = Player('X', isAI = false)
+  val aiPlayer = Player('O', isAI = true)
+  var currentPlayer = humanPlayer
   var currentStatus = GameStatus.InProgress
 
-  def switchPlayer(): Player = if (currentPlayer == player1) player2 else player1
+  def switchPlayer(): Player = if (currentPlayer == humanPlayer) aiPlayer else humanPlayer
 
   while (currentStatus == GameStatus.InProgress) {
     board.displayBoard()
     var moveSuccessful = currentPlayer.makeMove(board)
 
     while (!moveSuccessful) {
-      println("Invalid move, try again.")
+      if (!currentPlayer.isAI) {
+        println("Invalid move, try again.")
+      }
       moveSuccessful = currentPlayer.makeMove(board)
     }
 

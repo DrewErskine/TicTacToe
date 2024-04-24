@@ -1,3 +1,4 @@
+
 class Board {
   val grid: Array[Array[Char]] = Array.fill(3, 3)('-') // 3x3 grid initialized with '-'
 
@@ -23,15 +24,19 @@ class Board {
     !grid.flatten.contains('-')
   }
 
+  def isSpotAvailable(row: Int, col: Int): Boolean = {
+    grid(row)(col) == '-'  // Corrected reference to the grid array
+  }
+
   def displayBoard(): Unit = {
     println("    0   1   2")
     println("  -------------")
-    for (row <- grid.indices) {
-      print(s"${row} |")
-      for (col <- grid(row).indices) {
-        print(s" ${grid(row)(col)} |")
+    for (i <- grid.indices) {
+      print(s"$i | ")
+      for (j <- grid(i).indices) {
+        print(s"${grid(i)(j)} | ")
       }
-      println("\n  -------------")
+      println("-------------")
     }
   }
 }
