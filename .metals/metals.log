@@ -1607,3 +1607,7 @@ INFO: Unsupported notification method: $/setTrace
 2024.04.24 18:12:16 INFO  time: Connected to build server in 4.07s
 2024.04.24 18:12:16 INFO  Connected to Build server: Bloop v1.5.17
 2024.04.24 18:12:17 INFO  time: Imported build in 0.19s
+2024.04.24 18:12:23 INFO  no build target found for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\Player.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.04.24 18:12:28 INFO  time: indexed workspace in 5.1s
+2024.04.24 18:13:02 INFO  compiling root (4 scala sources)
+2024.04.24 18:13:07 INFO  time: compiled root in 4.96s
