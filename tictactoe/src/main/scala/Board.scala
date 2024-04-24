@@ -29,14 +29,15 @@ class Board {
   }
 
   def displayBoard(): Unit = {
-    println("    0   1   2")
-    println("  -------------")
+    println("\nCurrent Board:\n")
+    println("    1   2   3")
+    println("   -----------")
     for (i <- grid.indices) {
-      print(s"$i | ")
+      print(s"${i + 1} | ")
       for (j <- grid(i).indices) {
         print(s"${grid(i)(j)} | ")
       }
-      println("-------------")
+      println("\n   -----------")
     }
   }
 }
