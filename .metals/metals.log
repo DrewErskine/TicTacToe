@@ -1611,3 +1611,193 @@ INFO: Unsupported notification method: $/setTrace
 2024.04.24 18:12:28 INFO  time: indexed workspace in 5.1s
 2024.04.24 18:13:02 INFO  compiling root (4 scala sources)
 2024.04.24 18:13:07 INFO  time: compiled root in 4.96s
+2024.04.24 18:24:02 INFO  compiling root (1 scala source)
+2024.04.24 18:24:02 INFO  time: compiled root in 0.45s
+Apr 24, 2024 6:25:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 102
+Apr 24, 2024 6:25:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 103
+Apr 24, 2024 6:25:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 108
+Apr 24, 2024 6:25:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 104
+Apr 24, 2024 6:25:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 105
+Apr 24, 2024 6:25:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+2024.04.24 18:25:18 INFO  compiling root (1 scala source)
+2024.04.24 18:25:18 INFO  time: compiled root in 0.38s
+2024.04.24 18:25:46 INFO  compiling root (1 scala source)
+2024.04.24 18:25:46 INFO  time: compiled root in 0.32s
+2024.04.24 18:26:44 INFO  compiling root (2 scala sources)
+2024.04.24 18:26:44 INFO  time: compiled root in 0.23s
+2024.04.24 18:26:46 INFO  compiling root (2 scala sources)
+2024.04.24 18:26:46 INFO  time: compiled root in 0.14s
+2024.04.24 18:26:47 INFO  compiling root (1 scala source)
+2024.04.24 18:26:47 INFO  time: compiled root in 0.27s
+2024.04.24 18:27:46 INFO  compiling root (1 scala source)
+2024.04.24 18:27:46 INFO  time: compiled root in 0.27s
+2024.04.24 18:28:16 INFO  compiling root (1 scala source)
+2024.04.24 18:28:16 INFO  time: compiled root in 0.25s
+2024.04.24 18:29:12 INFO  compiling root (1 scala source)
+2024.04.24 18:29:12 INFO  time: compiled root in 0.25s
+Apr 24, 2024 6:29:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 412
+2024.04.24 18:29:47 INFO  compiling root (1 scala source)
+2024.04.24 18:29:47 INFO  time: compiled root in 88ms
+2024.04.24 18:29:47 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:47 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:48 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:52 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:57 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:57 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:57 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:57 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:57 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:57 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:29:59 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:01 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:03 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 INFO  compiling root (1 scala source)
+2024.04.24 18:30:05 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:30:05 INFO  time: compiled root in 0.17s
+2024.04.24 18:31:13 INFO  compiling root (1 scala source)
+2024.04.24 18:31:13 INFO  time: compiled root in 82ms
+2024.04.24 18:31:17 INFO  compiling root (1 scala source)
+2024.04.24 18:31:17 INFO  time: compiled root in 85ms
+2024.04.24 18:31:17 INFO  compiling root (1 scala source)
+2024.04.24 18:31:17 INFO  time: compiled root in 85ms
+Apr 24, 2024 6:31:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 669
+2024.04.24 18:31:22 INFO  compiling root (1 scala source)
+2024.04.24 18:31:22 INFO  time: compiled root in 0.16s
+Apr 24, 2024 6:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 772
+2024.04.24 18:33:05 INFO  compiling root (1 scala source)
+2024.04.24 18:33:05 INFO  time: compiled root in 65ms
+2024.04.24 18:33:17 INFO  compiling root (1 scala source)
+2024.04.24 18:33:17 INFO  time: compiled root in 0.15s
+2024.04.24 18:34:53 INFO  compiling root (1 scala source)
+2024.04.24 18:34:53 INFO  time: compiled root in 54ms
+2024.04.24 18:35:16 INFO  compiling root (1 scala source)
+2024.04.24 18:35:16 INFO  time: compiled root in 0.16s
+2024.04.24 18:36:44 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:36:44 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:36:44 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:36:44 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 18:36:44 INFO  compiling root (1 scala source)
+2024.04.24 18:36:44 INFO  time: compiled root in 0.16s
+2024.04.24 18:36:47 INFO  compiling root (1 scala source)
+2024.04.24 18:36:47 INFO  time: compiled root in 0.14s
+Apr 24, 2024 6:38:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1026
+Apr 24, 2024 8:48:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1193
+Apr 24, 2024 8:51:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1633
+2024.04.24 20:51:03 INFO  compiling root (1 scala source)
+2024.04.24 20:51:03 INFO  time: compiled root in 0.2s
+Apr 24, 2024 8:51:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1645
+Apr 24, 2024 8:51:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1700
+Apr 24, 2024 8:51:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1717
+Apr 24, 2024 8:51:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1734
+Apr 24, 2024 8:51:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1753
+Apr 24, 2024 8:55:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2252
+2024.04.24 20:58:58 INFO  compiling root (1 scala source)
+2024.04.24 20:58:58 INFO  time: compiled root in 0.19s
+Apr 24, 2024 8:59:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2694
+Apr 24, 2024 8:59:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2760
+Apr 24, 2024 8:59:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2806
+2024.04.24 21:00:49 INFO  compiling root (1 scala source)
+2024.04.24 21:00:49 INFO  time: compiled root in 0.16s
+Apr 24, 2024 9:00:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3044
+2024.04.24 21:00:49 INFO  compiling root (1 scala source)
+2024.04.24 21:00:49 INFO  time: compiled root in 0.21s
+2024.04.24 21:00:50 INFO  compiling root (1 scala source)
+2024.04.24 21:00:50 INFO  time: compiled root in 0.19s
+Apr 24, 2024 9:01:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3130
+Apr 24, 2024 9:03:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3534
+Apr 24, 2024 9:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3616
+Apr 24, 2024 9:04:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3679
+Apr 24, 2024 9:04:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3702
+Apr 24, 2024 9:04:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3710
+Apr 24, 2024 9:05:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3832
+Apr 24, 2024 9:05:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3863
+Apr 24, 2024 9:05:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3943
+Apr 24, 2024 9:05:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3984
+Apr 24, 2024 9:05:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3985
+Apr 24, 2024 9:05:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3993
+2024.04.24 21:06:02 INFO  compiling root (1 scala source)
+2024.04.24 21:06:02 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 21:06:02 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 21:06:02 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 21:06:02 WARN  Could not load snapshot text for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\TicTacToe.scala
+2024.04.24 21:06:02 INFO  time: compiled root in 0.14s
+2024.04.24 21:06:24 INFO  compiling root (4 scala sources)
+2024.04.24 21:06:24 INFO  time: compiled root in 0.4s
+Apr 24, 2024 10:21:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:131)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:732)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:729)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:639)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 13 more
+
