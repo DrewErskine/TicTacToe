@@ -1885,3 +1885,4 @@ SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@62930e2e]
 2024.04.26 11:41:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\.metals\bsp.trace.json or C:\Users\Dmers\AppData\Local\scalameta\metals\cache\bsp.trace.json
 2024.04.26 11:41:11 INFO  time: Connected to build server in 0.45s
 2024.04.26 11:41:11 INFO  Connected to Build server: Bloop v1.5.17
+2024.04.26 11:41:18 INFO  time: indexed workspace in 6.52s
