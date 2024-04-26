@@ -1854,3 +1854,19 @@ SLF4J: Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@45f3d5d
 SLF4J: See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
 SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@55073c5e]
 2024.04.26 11:39:56 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.04.26 11:39:58 INFO  Attempting to connect to the build server...
+2024.04.26 11:40:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\.metals\bsp.trace.json or C:\Users\Dmers\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.04.26 11:40:01 INFO  time: Connected to build server in 3.77s
+2024.04.26 11:40:01 INFO  Connected to Build server: Bloop v1.5.17
+2024.04.26 11:40:02 INFO  time: Imported build in 0.2s
+2024.04.26 11:40:09 INFO  no build target found for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\Board.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.04.26 11:40:15 INFO  time: indexed workspace in 5.7s
+2024.04.26 11:40:16 INFO  no build target found for C:\Users\Dmers\Code\school\Structure\Scala\TicTacToe\tictactoe\src\main\scala\GameStatus.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Apr 26, 2024 11:40:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Apr 26, 2024 11:40:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Apr 26, 2024 11:40:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 26, 2024 11:40:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
