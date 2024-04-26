@@ -1870,3 +1870,7 @@ Apr 26, 2024 11:40:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 15
 Apr 26, 2024 11:40:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 13
+2024.04.26 11:41:07 INFO  Shutting down server
+2024.04.26 11:41:07 INFO  shutting down Metals
+2024.04.26 11:41:07 INFO  Shut down connection with build server.
+2024.04.26 11:41:07 INFO  Exiting server
